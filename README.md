@@ -1,4 +1,4 @@
-# Abu Dhabi AI City Challenge — Project Template
+# Abu Dhabi AI PropTech Challenge — Project Template
 
 **Building the Intelligence Layer for Land, Investment and Communities**
 
@@ -12,7 +12,7 @@ A clean Next.js + TypeScript + Tailwind starter for challenge teams: a generic A
 # 1. Get the code (pick one)
 #    a) Click "Use this template" on GitHub, then clone your new repo
 #    b) Or clone directly:
-git clone https://github.com/abu-dhabi-ai-city-challenge/project-template.git my-project
+git clone https://github.com/abu-dhabi-ai-proptech-challenge/project-template.git my-project
 cd my-project
 
 # 2. Install and run
@@ -71,15 +71,15 @@ components/...          One component per panel — keep page.tsx thin
 | 🏙️ **Future Communities** | Service demand forecaster · resident experience explainer · community-fit matching |
 | 🧭 **Decision Intelligence** | Cross-dataset Q&A copilot with sources · automated morning briefing · scenario simulator |
 
-Sample datasets for all four live in the [starter kit](https://github.com/abu-dhabi-ai-city-challenge/starter-kit/tree/main/data).
+Sample datasets for all four live in the [starter kit](https://github.com/abu-dhabi-ai-proptech-challenge/starter-kit/tree/main/data).
 
 ## How to submit
 
 1. Push your project to your own GitHub repo (this template's "Use this template" flow does that for you).
 2. Deploy if you can (`vercel deploy` works out of the box) or record a 2–3 minute walkthrough.
-3. Before the deadline, open an Issue in the [`submissions`](https://github.com/abu-dhabi-ai-city-challenge/submissions) repo using the **Project Submission** form.
+3. Before the deadline, open an Issue in the [`submissions`](https://github.com/abu-dhabi-ai-proptech-challenge/submissions) repo using the **Project Submission** form.
 
-Full guide: [submissions repo](https://github.com/abu-dhabi-ai-city-challenge/submissions).
+Full guide: [submissions repo](https://github.com/abu-dhabi-ai-proptech-challenge/submissions).
 
 ## Links
 

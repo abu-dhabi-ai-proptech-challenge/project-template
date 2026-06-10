@@ -2,7 +2,7 @@
 
 Fill this in and rehearse it — twice, timed. You have **3 minutes**.
 
-> Full demo-day guidance: [submissions repo → demo-day-guide](https://github.com/abu-dhabi-ai-city-challenge/submissions/blob/main/docs/demo-day-guide.md)
+> Full demo-day guidance: [submissions repo → demo-day-guide](https://github.com/abu-dhabi-ai-proptech-challenge/submissions/blob/main/docs/demo-day-guide.md)
 
 ---
 

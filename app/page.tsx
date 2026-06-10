@@ -64,7 +64,7 @@ export default function Home() {
       </section>
 
       <footer className="mt-16 border-t border-white/10 pt-6 text-xs text-sand-50/40">
-        Abu Dhabi AI City Challenge — Building the Intelligence Layer for Land,
+        Abu Dhabi AI PropTech Challenge — Building the Intelligence Layer for Land,
         Investment and Communities. Hosted by Cursor × eVoost AI at Hub71.
       </footer>
     </main>

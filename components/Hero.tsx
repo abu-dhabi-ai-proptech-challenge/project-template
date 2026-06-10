@@ -6,13 +6,13 @@ const PROJECT_PITCH =
   "One sentence on what your prototype does and for whom. Edit this in components/Hero.tsx.";
 
 const SUBMIT_URL =
-  "https://github.com/abu-dhabi-ai-city-challenge/submissions/issues/new?template=project-submission.yml";
+  "https://github.com/abu-dhabi-ai-proptech-challenge/submissions/issues/new?template=project-submission.yml";
 
 export default function Hero({ track }: { track: Track }) {
   return (
     <header className="pt-16">
       <p className="text-xs font-medium uppercase tracking-[0.2em] text-sand-50/50">
-        Abu Dhabi AI City Challenge
+        Abu Dhabi AI PropTech Challenge
       </p>
       <div className="mt-4 flex flex-wrap items-center gap-3">
         <h1 className="text-4xl font-bold tracking-tight">{PROJECT_NAME}</h1>

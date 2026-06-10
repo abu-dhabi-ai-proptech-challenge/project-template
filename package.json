@@ -1,8 +1,8 @@
 {
-  "name": "ai-city-challenge-project",
+  "name": "ai-proptech-challenge-project",
   "version": "0.1.0",
   "private": true,
-  "description": "Abu Dhabi AI City Challenge project — built from the official project template",
+  "description": "Abu Dhabi AI PropTech Challenge project — built from the official project template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

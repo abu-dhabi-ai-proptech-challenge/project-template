@@ -3,7 +3,7 @@ import type { Track } from "@/components/TrackBadge";
 /**
  * Typed sample data — a small slice of the starter kit's synthetic
  * sample_parcels.csv. Replace with your own data, or fetch the full CSVs:
- * https://github.com/abu-dhabi-ai-city-challenge/starter-kit/tree/main/data
+ * https://github.com/abu-dhabi-ai-proptech-challenge/starter-kit/tree/main/data
  *
  * All values are synthetic. No real market data.
  */
